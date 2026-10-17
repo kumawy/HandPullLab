@@ -1,0 +1,13 @@
+.build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.DS_Store
+
+# Восстанавливаемые материалы редактора анимации
+Art/HandPullRemotion/node_modules/
+Art/HandPullRemotion/build/
+Art/HandPullRemotion/out/
+Art/HandPullRemotion/review/
+Art/HandPullRemotion/public/poses/
+Art/HandPullRemotion/public/cloth/

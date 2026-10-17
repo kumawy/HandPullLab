@@ -1,0 +1,5 @@
+Use case: background-extraction. Edit target: the user's LAST attached square 4x4 sprite sheet of a pastel pink cartoon hand. Clean this exact sprite sheet for animation. Remove ALL red white black speckled background noise and edge contamination, leaving a genuinely transparent background. Preserve the sixteen existing pink hands, their same anatomy, poses, material, soft shading, camera, scale and order. Do not invent a different hand. Keep strict 4 columns by 4 rows, each equal square cell; all wrists aligned in the same position within each cell. Keep the progression from softly curled fingers to closed delicate pinch. No cloth, graphics, text, borders or shadows on a background. Output one square transparent PNG sprite sheet. Clean smooth alpha around fingers. This is cleanup of the supplied artwork, not a redesign.
+
+Tool: built-in image_gen.imagegen
+transparent_background: true
+num_last_images_to_include: 1
